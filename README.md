@@ -1,0 +1,1 @@
+This is a project done for object oriented programming course at PUT. It's my take on the predator and prey simulator with a twist - they both look the same with the only difference being their behavior. 
